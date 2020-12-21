@@ -1,0 +1,26 @@
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.exe
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.deps.json
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.runtimeconfig.json
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.runtimeconfig.dev.json
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.dll
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.pdb
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.dll
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.pdb
+C:\Users\Maxim\source\repos\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.exe
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.deps.json
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.runtimeconfig.json
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.runtimeconfig.dev.json
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.dll
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\bin\Debug\netcoreapp3.1\Lab4_1.pdb
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.dll
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.pdb
+C:\Users\Maxim\Desktop\Lab 4 files\Lab 4_1 project files\Lab4_1\Lab4_1\obj\Debug\netcoreapp3.1\Lab4_1.genruntimeconfig.cache
